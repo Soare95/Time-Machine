@@ -1,4 +1,4 @@
-import requests
+import request
 from bs4 import BeautifulSoup
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
